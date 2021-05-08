@@ -1,0 +1,1 @@
+Exersise from hackerrank.com
