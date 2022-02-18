@@ -8,6 +8,11 @@ public class Main {
 //        for (int i = 0; i < arr.lenght(); i++) {
 //
 //        }
+        int x = 1;
+        for (int i = 1; i <=128 ; i++) {
+            x += x;
+        }
+        System.out.println(x);
 
     }
 
